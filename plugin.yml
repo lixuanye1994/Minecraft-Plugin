@@ -1,0 +1,3 @@
+name: Testplugin
+main: codetest.Testplugin
+version: 1.0
